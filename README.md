@@ -1,2 +1,2 @@
 # PHPPractice
-This repository will be use for php pracatice
+This repository will be use for php pracatice.
